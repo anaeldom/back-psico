@@ -1,0 +1,18 @@
+Debo de hacer ajustes al momento de ver usuarios en root. -> LISTO
+
+Terminar la vista de los pacientes.
+    VISTA PRINCIPAL -> LISTO
+    PODER AGENDAR CITAS -> LISTO
+    ANTECEDENTES -> EN PROCESO
+
+SIGNUP PACIENTE -> LISTO
+
+Terminar las vistas en médico. 
+    MODIFICAR LOS MODELOS DEL MEDICO -> LISTO
+    GENERAR EL SIGNUP MEDICO -> LISTO
+    GENERAR LA VISTA MEDICO -> LISTO
+
+Hacer cambios en la posible vista de administrador. -> LISTO
+WebSockets -> LISTO (Nota: Son notificaciones en tiempo real)
+Hacer la parte de los perfiles y poder ver su información. -> LISTO
+Por ultimo ver de que tipo de reportes podría realizar. -> LISTO
